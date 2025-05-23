@@ -11,7 +11,7 @@ To develop the Online Ticket Reservation System using Star UML tool.
 ## NAME: SARISH VARSHAN V
 ## REG NO: 212223230196
 
-## DIAGRAMS:A
+## DIAGRAMS:
 ## Usecase diagram:
 ![444792351-2c2fd1e5-450f-43a1-8714-7d1f7be2483f](https://github.com/user-attachments/assets/b93a6599-413a-4901-b57f-f69227fe1983)
 
